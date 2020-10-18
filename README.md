@@ -45,6 +45,17 @@ Para isso, deixamos instalado no seu package.json uma dependência chamada `json
   yarn json-server server.json -p 3333
 ```
 
+### Comandos
+
+- **`yarn`**: Para instalar dependências;
+
+- **`yarn json-server server.json -p 3333`**: Executar api fake
+
+- **`yarn start`**: Executar aplicação;
+
+- **`yarn test`**: Executar testes.
+
+
 ### Funcionalidades da aplicação
 
 Agora que você já está com o template clonado e pronto para continuar, você deve verificar os arquivos da pasta `src` e completar onde não possui código, com o código para atingir os objetivos de cada rota.
@@ -74,6 +85,15 @@ Para esse desafio, temos os seguintes testes:
 - **`should be able to remove a food plate`**: Para que esse teste passe, você deve permitir que um prato de comida seja removido da sua api, removendo-o também da listagem.
 
 - **`should be able to update the availibility of a food plate`**: Para que esse teste passe, em sua dashboard você deve permitir que o status do prato de comida seja alterado entre `Disponível` e `Indisponível`
+
+### Images
+<figure>
+    <img src="./prints/pic1.png"  style="margin: 0 auto" width="100%" alt="pic1" title="Dashboard">
+</figure><br/><br/>
+
+<figure>
+    <img src="./prints/pic2.png"  style="margin: 0 auto" width="100%" alt="pic2" title="Imagem do código no VSCode">
+</figure><br/><br/>
 
 ## :memo: Licença
 
