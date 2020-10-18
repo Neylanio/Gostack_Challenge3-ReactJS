@@ -47,9 +47,9 @@ Para isso, deixamos instalado no seu package.json uma dependência chamada `json
 
 ### Comandos
 
-- **`yarn`**: Para instalar dependências;
+- **`yarn`**: Instalar dependências;
 
-- **`yarn json-server server.json -p 3333`**: Executar api fake
+- **`yarn json-server server.json -p 3333`**: Executar API fake;
 
 - **`yarn start`**: Executar aplicação;
 
